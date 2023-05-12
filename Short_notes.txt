@@ -1,0 +1,71 @@
+Select
+From
+Where
+
+
+Distinct
+Like
+
+
+1. SQL queries based on numerical conditions
+2. AND, OR operator
+3. <, ≤, >, ≥ operator
+4. BETWEEN - and -
+5. IN ======== ( , ... , )
+6. NULL values======== NULL and NOT NULL
+7. ORDER BY ========= ASC and DESC
+8. LIMIT & OFFSET ====== means starting point
+
+
+EXECUTION ORDER:
+	FROM ===> WHERE ===> GROUPBY ===> HAVING ===> ORDERBY
+
+
+IF ======= SYNTAX ===   IF(CONDITION,TRUE,FALSE)
+
+CASE =====
+	CASE
+    	WHEN condition1 THEN result1
+    	WHEN condition2 THEN result2
+   	WHEN conditionN THEN resultN
+    	ELSE result
+	END; 
+
+
+SQL inbuilt functions such as YEAR, CURDATE, etc.
+
+
+
+CTE(common table expression)
+
+WITH  X as (----),
+      Y as (----)
+SELECT --
+FROM --
+WHERE --
+
+
+
+
+Window Function  uses OVER()
+
+
+
+Inbuilt functions in 
+ROW_NUMBER
+RANK
+DENSE_RANK
+
+
+
+
+Datalemur
+stratascratch
+leetcode
+
+
+
+
+
+
+
